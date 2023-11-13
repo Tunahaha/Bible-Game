@@ -13,7 +13,7 @@ This is a simple Java-based game that simulates the journey of Moses escaping fr
    
 2. Clone this repository to your local machine:
     ```
-    git clone https://github.com/your-repository/moses-escape-from-egypt.git
+    git clone https://github.com/Tunahaha/Bible-Game.git
     ```
     
 3. Switch to the directory of the repository you just cloned:
