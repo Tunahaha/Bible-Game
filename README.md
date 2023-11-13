@@ -18,7 +18,7 @@ This is a simple Java-based game that simulates the journey of Moses escaping fr
     
 3. Switch to the directory of the repository you just cloned:
     ```
-    cd moses-escape-from-egypt
+    cd Bible-Game
     ```
     
 4. Compile the Java files:
